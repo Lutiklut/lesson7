@@ -1,0 +1,1 @@
+{"brand": "Xiaomi", "model": "Note 10 Pro", "capaciti": "5260"}
